@@ -197,8 +197,11 @@ Here, we can clearly see the surge in 'Mobile QB's' throughout the last few year
 
 In order to take a deeper look into the direct comparisons of certain Quarterbacks passing and rushing stats, I have provided an interactive plot in which the user can input a Quarterback who started 75% of a season throughout the years 2001-2023 and a plot will show their distribution of yards in both respective categories over the years. Users may choose to use this as a means of comparing stats among certain quarterbacks, or to see trends in the decrease of passing yards and increase in rushing yards amongst certain quarterbacks.
 
-<iframe src="https://rms070.shinyapps.io/interactiveapp/" class="l-screen-inset shaded" height="1000px"></iframe>
+<iframe src="https://abby-flynt.shinyapps.io/QB-Statistics/" class="l-screen-inset shaded" height="1000px"></iframe>
 
 Now, what exactly has all of this data shown us? Well, it is clear that passing production in the NFL is no where near what it was like from 2011-2016. One of the reasons why this may be is because of the sheer pocket passing quarterbacks that played during this era. If you look at the passing vs rushing stats for players such as Drew Brees, Tom Brady, Philip Rivers, Peyton Manning, etc... it is evident that they were the most prolific passers in the league, and rarely ever ran with the ball. Meanwhile, the prolific passers in the NFL in the more modern era seem to favor running the ball a little bit more. This is seen with quarterbacks such as Josh Allen, Jalen Hurts, Lamar Jackson, etc... We also established a surge of mobile quarterbacks in the more recent years, furthermore proving that rushing amongst quarterbacks is affecting the passing game in the NFL. Although this may not in turn be problematic for the NFL, it may have a long-term affect, such as making it harder for players to beat previous passing records. All-in-all, this data helped show that there indeed is a reason behind the decline in passing yards over the recent seasons, and several factors have to do with it.
+
+
+
 
 
