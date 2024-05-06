@@ -1,0 +1,13 @@
+name: shelon_website
+title: shelon_website
+username: rms070
+account: rms070
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11940829
+bundleId: 8579989
+url: https://rms070.shinyapps.io/shelon_website/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: _site.yml|.nojekyll|.RData|.RDataTmp|additionalVisualizations.Rmd|art1.png|art2.png|art3.png|FFFF.Rmd|generativeaRt.Rmd|ggplotextensions.Rmd|index.Rmd|Infographic.png|Interactive.Rmd|MATH230_Exam1_Data.RData|me.jpg|passing_cleaned.csv|QBData.log|QBData.tex|rushing_cleaned.csv|shinyapp.Rmd|styles.css|TESTING.Rmd|docs|QBData_files
